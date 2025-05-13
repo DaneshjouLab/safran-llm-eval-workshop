@@ -31,7 +31,7 @@ if uploaded_file:
         st.subheader("Phase 1: Alteration Evaluation")
         st.markdown(f"**Alteration Type:** `{row['alteration_type']}`")
 
-        col1, col2 = st.columns(5)
+        col1, col2 = st.columns(2)
         with col1:
             st.markdown("**Original Summary**")
             st.code(row["original_summary"], language="text")

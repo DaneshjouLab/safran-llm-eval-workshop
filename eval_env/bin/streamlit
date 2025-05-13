@@ -1,4 +1,4 @@
-#!/Users/bikia/Documents/Code/CARE-LLM/safran-output-fact-checking/eval_env/bin/python3
+#!/Users/bikia/Documents/Code/CARE-LLM/safran-llm-eval-workshop/eval_env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/bikia/Documents/Code/CARE-LLM/safran-output-fact-checking/eval_env"
+set -gx VIRTUAL_ENV "/Users/bikia/Documents/Code/CARE-LLM/safran-llm-eval-workshop/eval_env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/bikia/Documents/Code/CARE-LLM/safran-output-fact-checking/eval_env"
+VIRTUAL_ENV="/Users/bikia/Documents/Code/CARE-LLM/safran-llm-eval-workshop/eval_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
